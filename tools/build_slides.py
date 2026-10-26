@@ -321,10 +321,6 @@ SLIDES = f"""
       <span class="lbl">travelers named in the ledger, with dollars and
       fit points</span></div>
   </div>
-  <p class="tiny" style="margin-top:1.4em;color:var(--warn)">
-  <b>To add before submitting:</b> a real group's .ics files, whether they
-  accepted the recommendation, and a quote from whoever the ledger said gave up
-  the most — that's the claim being tested.</p>
 </section>
 
 <section>

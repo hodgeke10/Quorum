@@ -48,9 +48,7 @@ pre{background:#f7f9fb;border:1px solid #e4e9ef;border-radius:8px;
   padding:14px 16px;overflow:auto;font:400 12.5px/1.6 ui-monospace,Menlo,monospace}
 .callout{border:1px solid #e0d6b8;background:#fdfaf1;border-radius:10px;
   padding:16px 20px;margin:20px 0;font-size:15px}
-.callout.todo{border-color:#e3b9b3;background:#fdf4f3}
 .callout h4{margin-top:0;color:#8a6d2f}
-.callout.todo h4{color:#a4453a}
 ul,ol{margin:0 0 14px;padding-left:22px}
 li{margin:0 0 7px}
 .kicker{font:400 12px/1 var(--serif);letter-spacing:.18em;
@@ -484,12 +482,17 @@ it, and the five-person group in this report costs about
 1.1 cents a head.</p>
 
 <div class="callout">
-<h4>On the price basis</h4>
-<p>Dollar figures use $1.25/M input, $0.125/M cached input and $10.00/M output,
-set in one place (<code>PRICE_PER_MTOK</code> in
-<code>backend/trace_log.py</code>) and currently a placeholder. <b>Confirm these
-against the gateway's published rates before quoting the dollar figures.</b>
-The token counts are measured and do not change; only the multiplier does.</p>
+<h4>What is measured here, and what is assumed</h4>
+<p>Every token count in this section is measured: the figures are what the
+gateway reported for the run, read straight out of the saved trace. The dollar
+figures multiply those counts by an assumed price — $1.25 per million input
+tokens, $0.125 cached, $10.00 output — which is <b>not</b> a confirmed rate for
+gpt-6-luna. It is a plausible placeholder, and the published rate could move
+the totals by a factor of either direction.</p>
+<p>So the token economics above are evidence; the dollar economics are an
+illustration at a stated rate. The multiplier lives in one place,
+<code>PRICE_PER_MTOK</code> in <code>backend/trace_log.py</code>, and every
+figure in this report regenerates from it.</p>
 </div>
 
 <h2>5 &middot; Safety</h2>

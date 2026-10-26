@@ -10,7 +10,7 @@ two documents cannot disagree.
 
 from __future__ import annotations
 
-REPO_URL = "https://github.com/hodgeke10/quorum"
+REPO_URL = "https://github.com/hodgeke10/Quorum"
 
 # Set True if the repo is private. The professor must be told, in both files,
 # and `zlisto` has to be added as a collaborator.

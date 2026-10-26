@@ -802,23 +802,23 @@ who flexed, with the gap in fit points and the dollar figure for each
 — the kind of statement a group can actually check.</li>
 </ul>
 
-<div class="callout todo">
-<h4>To complete before submission — real user evidence</h4>
-<p>The rubric requires user evidence for this section, and a section missing its
-required evidence earns at most half marks. The honest state is that this has
-not been run with a real group yet. What is needed:</p>
-<ul>
-<li>Two or three friends' actual <code>.ics</code> exports, run through the app
-in place of the sample group.</li>
-<li>A note of how long they had already spent trying to plan something, and
-whether they accepted Quorum's recommendation.</li>
-<li>One or two direct quotes — especially from whoever the ledger said flexed
-the most, since the claim being tested is whether seeing the ledger makes a
-decision easier to accept.</li>
-<li>Any case where the group disagreed with the result, which is more
-interesting than a success and should be reported either way.</li>
-</ul>
-<p>Replace this box with those findings. Do not submit with it in place.</p>
+<div class="callout">
+<h4>What this section does not have</h4>
+<p>Quorum has not been run with a real group. Everything above is measured from
+the system itself — search difficulty, time to a decision, cost per trip, the
+specificity of the ledger — and none of it is evidence that a real group of
+friends behaves differently with Quorum than without it. That is the claim the
+project actually makes, and it is the one claim here that is untested.</p>
+<p>The test it needs is small and specific: two or three people's real
+calendar exports, a note of how long they had already spent failing to plan
+something, whether they accepted the recommendation, and a quote from whoever
+the ledger said flexed most — since the thing being tested is whether seeing
+the ledger makes a decision easier to accept. A group that <em>rejected</em> the
+result would be more informative than one that liked it, and would be reported
+either way.</p>
+<p>Until that exists, the honest reading of this section is: the arithmetic
+works and costs very little, and whether it changes what a group does is
+unproven.</p>
 </div>
 
 <h2>7 &middot; Limits and next steps</h2>

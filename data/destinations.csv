@@ -1,0 +1,112 @@
+dest_code,city,country,region,haul,tags,in_sample
+DEN,Denver,United States,us-mountain,short,"outdoors,mountains,nightlife",yes
+SLC,Salt Lake City,United States,us-mountain,short,"outdoors,mountains,skiing",no
+JAC,Jackson Hole,United States,us-mountain,short,"outdoors,mountains,nature,skiing",no
+BZN,Bozeman,United States,us-mountain,short,"outdoors,mountains,nature",no
+MSY,New Orleans,United States,us-south,short,"food,nightlife,culture,budget",yes
+AUS,Austin,United States,us-south,short,"food,nightlife,outdoors,budget",no
+NSH,Nashville,United States,us-south,short,"music,nightlife,food",no
+CHS,Charleston,United States,us-south,short,"food,beach,culture",no
+SAV,Savannah,United States,us-south,short,"culture,food,beach,budget",no
+MIA,Miami,United States,us-south,short,"beach,nightlife,food,city",no
+KEY,Key West,United States,us-south,short,"beach,nightlife,food",no
+SAN,San Diego,United States,us-west,short,"beach,food,outdoors",no
+PDX,Portland,United States,us-west,short,"food,city,outdoors,nature",no
+LAS,Las Vegas,United States,us-west,short,"nightlife,city,food,budget",no
+PHX,Phoenix,United States,us-west,short,"outdoors,budget,city",no
+HNL,Honolulu,United States,us-west,short,"beach,nature,outdoors",no
+ANC,Anchorage,United States,us-west,short,"nature,outdoors,photography",no
+NYC,New York,United States,us-northeast,short,"city,food,culture,art,nightlife",no
+BOS,Boston,United States,us-northeast,short,"city,culture,food,art",no
+PHL,Philadelphia,United States,us-northeast,short,"city,culture,food,budget",no
+DCA,Washington,United States,us-northeast,short,"culture,city,art,food",no
+YUL,Montreal,Canada,us-northeast,short,"food,culture,city,art",no
+YQB,Quebec City,Canada,us-northeast,short,"culture,winter,food,photography",no
+YYZ,Toronto,Canada,us-northeast,short,"city,food,culture,art",no
+YVR,Vancouver,Canada,us-west,short,"city,nature,outdoors,food",no
+CUN,Cancún,Mexico,latam,medium,"beach,nightlife,budget,food",yes
+SJD,Los Cabos,Mexico,latam,medium,"beach,nightlife,outdoors,upscale",no
+PVR,Puerto Vallarta,Mexico,latam,medium,"beach,food,budget,nightlife",no
+MEX,Mexico City,Mexico,latam,medium,"city,food,culture,art,budget",no
+OAX,Oaxaca,Mexico,latam,medium,"food,culture,art,budget",no
+SJU,San Juan,Puerto Rico,caribbean,short,"beach,food,culture,budget",no
+PUJ,Punta Cana,Dominican Republic,caribbean,short,"beach,nightlife,upscale",no
+MBJ,Montego Bay,Jamaica,caribbean,short,"beach,music,nightlife,food",no
+NAS,Nassau,Bahamas,caribbean,short,"beach,nightlife,upscale",no
+AUA,Aruba,Aruba,caribbean,short,"beach,outdoors,upscale",no
+SJO,San José,Costa Rica,latam,medium,"nature,outdoors,beach,budget",no
+PTY,Panama City,Panama,latam,medium,"city,food,beach,budget",no
+HAV,Havana,Cuba,caribbean,short,"culture,music,food,photography",no
+LIM,Lima,Peru,latam,long,"food,culture,outdoors,budget",no
+CUZ,Cusco,Peru,latam,long,"outdoors,culture,nature,photography",no
+BOG,Bogotá,Colombia,latam,long,"city,food,culture,budget",no
+MDE,Medellín,Colombia,latam,long,"city,nightlife,food,budget",no
+UIO,Quito,Ecuador,latam,long,"culture,outdoors,nature,budget",no
+SCL,Santiago,Chile,latam,long,"city,food,outdoors,mountains",no
+EZE,Buenos Aires,Argentina,latam,long,"city,food,culture,nightlife,art",no
+GIG,Rio de Janeiro,Brazil,latam,long,"beach,nightlife,music,city",no
+LIS,Lisbon,Portugal,europe,long,"city,food,culture,budget,nightlife",yes
+OPO,Porto,Portugal,europe,long,"food,culture,budget,city",no
+BCN,Barcelona,Spain,europe,long,"city,beach,food,nightlife,culture",no
+MAD,Madrid,Spain,europe,long,"city,art,food,culture",no
+PMI,Palma,Spain,europe,long,"beach,nightlife,outdoors",no
+IBZ,Ibiza,Spain,europe,long,"beach,nightlife,music",no
+MXP,Milan,Italy,europe,long,"city,food,culture,art",no
+FCO,Rome,Italy,europe,long,"culture,food,art,city",no
+FLR,Florence,Italy,europe,long,"art,culture,food",no
+VCE,Venice,Italy,europe,long,"art,culture,photography,food",no
+NAP,Naples,Italy,europe,long,"food,culture,beach,budget",no
+ATH,Athens,Greece,europe,long,"beach,culture,food,nightlife",no
+JTR,Santorini,Greece,europe,long,"beach,photography,upscale,food",no
+SPU,Split,Croatia,europe,long,"beach,outdoors,culture,budget",no
+DBV,Dubrovnik,Croatia,europe,long,"beach,culture,photography",no
+CDG,Paris,France,europe,long,"city,food,culture,art",no
+NCE,Nice,France,europe,long,"beach,food,art,upscale",no
+AMS,Amsterdam,Netherlands,europe,long,"city,art,culture,nightlife",no
+BER,Berlin,Germany,europe,long,"city,nightlife,art,culture,budget",no
+PRG,Prague,Czechia,europe,long,"culture,city,budget,nightlife",no
+BUD,Budapest,Hungary,europe,long,"culture,city,budget,nightlife,food",no
+KRK,Kraków,Poland,europe,long,"culture,budget,city,art",no
+VIE,Vienna,Austria,europe,long,"culture,art,food,city",no
+ZRH,Zurich,Switzerland,europe,long,"mountains,outdoors,upscale,nature",no
+CPH,Copenhagen,Denmark,europe,long,"city,food,culture,art",no
+ARN,Stockholm,Sweden,europe,long,"city,culture,nature,art",no
+OSL,Oslo,Norway,europe,long,"nature,outdoors,mountains,photography",no
+TOS,Tromsø,Norway,europe,long,"nature,winter,photography,outdoors",no
+KEF,Reykjavík,Iceland,europe,long,"outdoors,nature,photography",yes
+RVN,Rovaniemi,Finland,europe,long,"outdoors,nature,winter,photography",no
+DUB,Dublin,Ireland,europe,long,"nightlife,culture,food,music",no
+EDI,Edinburgh,Scotland,europe,long,"culture,city,nature,photography",no
+LHR,London,United Kingdom,europe,long,"city,culture,art,food,nightlife",no
+IST,Istanbul,Türkiye,europe,long,"culture,food,city,budget",no
+RAK,Marrakech,Morocco,africa,long,"culture,food,budget,photography",no
+CAI,Cairo,Egypt,africa,long,"culture,budget,photography",no
+CPT,Cape Town,South Africa,africa,long,"beach,outdoors,food,nature",no
+NBO,Nairobi,Kenya,africa,long,"nature,outdoors,photography",no
+ZNZ,Zanzibar,Tanzania,africa,long,"beach,nature,budget",no
+DXB,Dubai,United Arab Emirates,middle-east,long,"city,upscale,beach,nightlife",no
+TLV,Tel Aviv,Israel,middle-east,long,"beach,nightlife,food,city",no
+AMM,Amman,Jordan,middle-east,long,"culture,outdoors,photography,budget",no
+NRT,Tokyo,Japan,asia,long,"city,food,culture,nightlife",yes
+KIX,Osaka,Japan,asia,long,"food,city,culture,budget",no
+CTS,Sapporo,Japan,asia,long,"winter,skiing,food,nature",no
+ICN,Seoul,South Korea,asia,long,"city,food,nightlife,culture",no
+TPE,Taipei,Taiwan,asia,long,"food,city,nature,budget",no
+HKG,Hong Kong,China,asia,long,"city,food,nightlife,culture",no
+BKK,Bangkok,Thailand,asia,long,"food,city,nightlife,budget,culture",no
+HKT,Phuket,Thailand,asia,long,"beach,nightlife,budget,nature",no
+SGN,Ho Chi Minh City,Vietnam,asia,long,"food,city,budget,culture",no
+HAN,Hanoi,Vietnam,asia,long,"food,culture,budget,city",no
+SIN,Singapore,Singapore,asia,long,"city,food,upscale,nightlife",no
+DPS,Bali,Indonesia,asia,long,"beach,nature,budget,outdoors",no
+KUL,Kuala Lumpur,Malaysia,asia,long,"city,food,budget,culture",no
+DEL,Delhi,India,asia,long,"culture,food,budget,photography",no
+GOI,Goa,India,asia,long,"beach,nightlife,budget,food",no
+CMB,Colombo,Sri Lanka,asia,long,"beach,nature,culture,budget",no
+KTM,Kathmandu,Nepal,asia,long,"mountains,outdoors,culture,nature",no
+MLE,Maldives,Maldives,asia,long,"beach,upscale,nature",no
+SYD,Sydney,Australia,oceania,long,"beach,city,food,nightlife",no
+MEL,Melbourne,Australia,oceania,long,"food,art,city,culture",no
+AKL,Auckland,New Zealand,oceania,long,"nature,outdoors,food,city",no
+ZQN,Queenstown,New Zealand,oceania,long,"outdoors,mountains,nature,skiing",no
+NAN,Fiji,Fiji,oceania,long,"beach,nature,upscale",no

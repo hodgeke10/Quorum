@@ -1,0 +1,201 @@
+{
+  "_note": "Twelve made-up people with real-looking schedules. 'Try the sample group' picks a random subset the size of the group the user asked for, so the demo is different each time rather than always the same five.",
+  "travelers": [
+    {
+      "name": "Maya",
+      "calendar": "calendars/maya.ics",
+      "home_airport": "BDL",
+      "budget_usd": 1400,
+      "likes": [
+        "beach",
+        "food",
+        "budget"
+      ],
+      "dislikes": [
+        "winter"
+      ],
+      "must_have": "Somewhere warm. I have been in New England all year.",
+      "lodging_tier": "budget"
+    },
+    {
+      "name": "Josh",
+      "calendar": "calendars/josh.ics",
+      "home_airport": "JFK",
+      "budget_usd": 2000,
+      "likes": [
+        "nightlife",
+        "food",
+        "city"
+      ],
+      "dislikes": [
+        "outdoors"
+      ],
+      "must_have": "I want to be somewhere with a real night scene, not a resort.",
+      "lodging_tier": "mid"
+    },
+    {
+      "name": "Priya",
+      "calendar": "calendars/priya.ics",
+      "home_airport": "ORD",
+      "budget_usd": 1700,
+      "likes": [
+        "outdoors",
+        "nature",
+        "culture"
+      ],
+      "dislikes": [
+        "nightlife"
+      ],
+      "must_have": "At least one serious hike or something to actually see.",
+      "lodging_tier": "mid"
+    },
+    {
+      "name": "Dev",
+      "calendar": "calendars/dev.ics",
+      "home_airport": "SFO",
+      "budget_usd": 2800,
+      "likes": [
+        "city",
+        "food",
+        "culture"
+      ],
+      "dislikes": [
+        "beach"
+      ],
+      "must_have": "Good food matters more to me than anything else here.",
+      "lodging_tier": "upscale"
+    },
+    {
+      "name": "Ana",
+      "calendar": "calendars/ana.ics",
+      "home_airport": "ATL",
+      "budget_usd": 1150,
+      "likes": [
+        "budget",
+        "culture",
+        "food"
+      ],
+      "dislikes": [
+        "upscale"
+      ],
+      "must_have": "I am the broke one here. Please do not pick a $3000 trip.",
+      "lodging_tier": "budget"
+    },
+    {
+      "name": "Theo",
+      "calendar": "calendars/theo.ics",
+      "home_airport": "BOS",
+      "budget_usd": 1900,
+      "likes": [
+        "culture",
+        "food",
+        "city",
+        "art"
+      ],
+      "dislikes": [
+        "nightlife"
+      ],
+      "must_have": "Museums and long lunches. I do not need to be out past eleven.",
+      "lodging_tier": "mid"
+    },
+    {
+      "name": "Lena",
+      "calendar": "calendars/lena.ics",
+      "home_airport": "LGA",
+      "budget_usd": 2200,
+      "likes": [
+        "art",
+        "culture",
+        "city",
+        "photography"
+      ],
+      "dislikes": [
+        "skiing"
+      ],
+      "must_have": "Give me somewhere I can photograph. Light matters more than luxury.",
+      "lodging_tier": "mid"
+    },
+    {
+      "name": "Omar",
+      "calendar": "calendars/omar.ics",
+      "home_airport": "EWR",
+      "budget_usd": 1800,
+      "likes": [
+        "beach",
+        "nature",
+        "food"
+      ],
+      "dislikes": [
+        "city"
+      ],
+      "must_have": "I have been inside a hospital all year. Somewhere quiet and warm.",
+      "lodging_tier": "mid"
+    },
+    {
+      "name": "Noor",
+      "calendar": "calendars/noor.ics",
+      "home_airport": "SEA",
+      "budget_usd": 3000,
+      "likes": [
+        "city",
+        "food",
+        "culture",
+        "upscale"
+      ],
+      "dislikes": [
+        "budget"
+      ],
+      "must_have": "I travel for work constantly, so this one should feel like a treat.",
+      "lodging_tier": "upscale"
+    },
+    {
+      "name": "Gabe",
+      "calendar": "calendars/gabe.ics",
+      "home_airport": "MIA",
+      "budget_usd": 1500,
+      "likes": [
+        "food",
+        "nightlife",
+        "budget"
+      ],
+      "dislikes": [
+        "winter"
+      ],
+      "must_have": "I cook for a living. I want somebody else to cook for me.",
+      "lodging_tier": "budget"
+    },
+    {
+      "name": "Ruth",
+      "calendar": "calendars/ruth.ics",
+      "home_airport": "DEN",
+      "budget_usd": 2100,
+      "likes": [
+        "nature",
+        "outdoors",
+        "culture"
+      ],
+      "dislikes": [
+        "nightlife"
+      ],
+      "must_have": "Gentle walking, good views, and nowhere I need to shout to be heard.",
+      "lodging_tier": "mid"
+    },
+    {
+      "name": "Kai",
+      "calendar": "calendars/kai.ics",
+      "home_airport": "LAX",
+      "budget_usd": 1250,
+      "likes": [
+        "nightlife",
+        "music",
+        "city",
+        "budget"
+      ],
+      "dislikes": [
+        "upscale"
+      ],
+      "must_have": "Cheap and loud. I am on tour the rest of the year.",
+      "lodging_tier": "budget"
+    }
+  ]
+}

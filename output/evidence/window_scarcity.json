@@ -1,0 +1,64 @@
+{
+  "nights": 6,
+  "horizon": "2027-01-01 to 2027-12-31",
+  "candidate_start_dates": 359,
+  "draws_per_size": 8,
+  "by_group_size": [
+    {
+      "group_size": 2,
+      "draws": 8,
+      "windows_min": 26,
+      "windows_max": 35,
+      "windows_mean": 31.1
+    },
+    {
+      "group_size": 3,
+      "draws": 8,
+      "windows_min": 17,
+      "windows_max": 28,
+      "windows_mean": 23.4
+    },
+    {
+      "group_size": 4,
+      "draws": 8,
+      "windows_min": 13,
+      "windows_max": 23,
+      "windows_mean": 18.2
+    },
+    {
+      "group_size": 5,
+      "draws": 8,
+      "windows_min": 9,
+      "windows_max": 18,
+      "windows_mean": 13.8
+    },
+    {
+      "group_size": 6,
+      "draws": 8,
+      "windows_min": 6,
+      "windows_max": 14,
+      "windows_mean": 10.1
+    },
+    {
+      "group_size": 8,
+      "draws": 8,
+      "windows_min": 5,
+      "windows_max": 8,
+      "windows_mean": 6.0
+    },
+    {
+      "group_size": 10,
+      "draws": 8,
+      "windows_min": 3,
+      "windows_max": 4,
+      "windows_mean": 3.9
+    },
+    {
+      "group_size": 12,
+      "draws": 8,
+      "windows_min": 3,
+      "windows_max": 3,
+      "windows_mean": 3.0
+    }
+  ]
+}

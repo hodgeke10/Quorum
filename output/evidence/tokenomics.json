@@ -1,0 +1,88 @@
+{
+  "baseline_22_tool_calls": {
+    "input": 47907,
+    "cached": 22369,
+    "fresh": 25538,
+    "output": 3608,
+    "requests": 11,
+    "tool_calls": 22,
+    "cost": 0.070799,
+    "elapsed": 8.64
+  },
+  "optimized_survey_tool": {
+    "input": 36794,
+    "cached": 18955,
+    "fresh": 17839,
+    "output": 3275,
+    "requests": 9,
+    "tool_calls": 5,
+    "cost": 0.057418,
+    "elapsed": 19.62
+  },
+  "per_agent_optimized": {
+    "scout": {
+      "input_tokens": 13907,
+      "cached_input_tokens": 8517,
+      "fresh_input_tokens": 5390,
+      "output_tokens": 693,
+      "total_tokens": 14600,
+      "requests": 3,
+      "cost_usd": 0.014732
+    },
+    "advocate:Dev": {
+      "input_tokens": 3215,
+      "cached_input_tokens": 1586,
+      "fresh_input_tokens": 1629,
+      "output_tokens": 361,
+      "total_tokens": 3576,
+      "requests": 1,
+      "cost_usd": 0.005844
+    },
+    "advocate:Kai": {
+      "input_tokens": 3220,
+      "cached_input_tokens": 1586,
+      "fresh_input_tokens": 1634,
+      "output_tokens": 416,
+      "total_tokens": 3636,
+      "requests": 1,
+      "cost_usd": 0.006401
+    },
+    "advocate:Priya": {
+      "input_tokens": 3215,
+      "cached_input_tokens": 1586,
+      "fresh_input_tokens": 1629,
+      "output_tokens": 421,
+      "total_tokens": 3636,
+      "requests": 1,
+      "cost_usd": 0.006445
+    },
+    "advocate:Maya": {
+      "input_tokens": 3216,
+      "cached_input_tokens": 1586,
+      "fresh_input_tokens": 1630,
+      "output_tokens": 390,
+      "total_tokens": 3606,
+      "requests": 1,
+      "cost_usd": 0.006136
+    },
+    "advocate:Gabe": {
+      "input_tokens": 3219,
+      "cached_input_tokens": 1586,
+      "fresh_input_tokens": 1633,
+      "output_tokens": 433,
+      "total_tokens": 3652,
+      "requests": 1,
+      "cost_usd": 0.00657
+    },
+    "chair": {
+      "input_tokens": 6802,
+      "cached_input_tokens": 2508,
+      "fresh_input_tokens": 4294,
+      "output_tokens": 561,
+      "total_tokens": 7363,
+      "requests": 1,
+      "cost_usd": 0.011291
+    }
+  },
+  "note": "baseline = before the batched survey tool; optimized = the traced run in the report"
+}

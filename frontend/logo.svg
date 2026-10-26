@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img"
+     aria-label="Quorum — five figures standing in a circle">
+  <title>Quorum</title>
+  <!-- Five board-game pegs standing around a circle: the sense of the word
+       quorum, which is the number of members who must be present for a
+       decision to count. One colour for all five — nobody in this group
+       counts for more than anybody else. -->
+  <defs>
+    <g id="peg">
+      <circle cx="0" cy="-18.4" r="4"/>
+      <rect x="-6.5" y="-15.4" width="13" height="4.6" rx="1.9"/>
+      <path d="M-3.4,-11.2 h6.8 v7.8 a3.4,3.4 0 0 1 -6.8,0 z"/>
+    </g>
+  </defs>
+
+  <ellipse cx="60" cy="63" rx="29" ry="13.5"
+           fill="none" stroke="#b8893b" stroke-width="2.6"/>
+
+  <g fill="#434a55">
+  <use href="#peg" transform="translate(60.0 44.0) scale(0.84)"/>
+  <use href="#peg" transform="translate(97.1 57.1) scale(0.94)"/>
+  <use href="#peg" transform="translate(22.9 57.1) scale(0.94)"/>
+  <use href="#peg" transform="translate(82.9 78.4) scale(1.11)"/>
+  <use href="#peg" transform="translate(37.1 78.4) scale(1.11)"/>
+  </g>
+</svg>
